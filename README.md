@@ -7,7 +7,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:  
   - 🔭 I’m currently a Graduate Computer Science Student in Gh.
   - 🌱 I’m currently working as Software Developer for FinTech Company and learning Machine Learning and Big Data
-  - 💬 Ask me about [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics, Puzzles.
+  - 💬 Ask me about [Chess](https://www.chess.com/member/Kaysap01) and Tintin comics, Puzzles.
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: My name is an anagram of "I Play Data"
   
