@@ -1,11 +1,11 @@
-  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+  ### Hello World, I'm Isaac!   <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
   
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:  
-  - 🔭 I’m currently a Graduate Computer Science Student in Gh.
+  - 🔭 I’m currently a Graduate Computer Science Student from University of Ghana.
   - 🌱 I’m currently working as Software Developer for FinTech Company and learning Machine Learning and Big Data
   - 💬 Ask me about [Chess](https://www.chess.com/member/Kaysap01) and Tintin comics, Puzzles.
   - 😄 Pronouns: He / Him
